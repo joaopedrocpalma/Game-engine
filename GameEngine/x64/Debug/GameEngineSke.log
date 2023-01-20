@@ -1,0 +1,71 @@
+﻿  Application.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AudioSubsystem.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Engine.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\Engine.cpp(58,65): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+  GUISubsystem.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\Lib\irrlicht-1.8.4\include\irrString.h(378,1): warning C4302: 'type cast': truncation from 'const B' to 'T'
+          with
+          [
+              B=std::string *
+          ]
+          and
+          [
+              T=irr::c8
+          ]
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\Lib\irrlicht-1.8.4\include\irrString.h(299): message : see reference to function template instantiation 'irr::core::string<irr::c8,irr::core::irrAllocator<T>> &irr::core::string<T,irr::core::irrAllocator<T>>::operator =<B>(const B *const )' being compiled
+          with
+          [
+              T=irr::c8,
+              B=std::string *
+          ]
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\Lib\irrlicht-1.8.4\include\irrString.h(299): message : see reference to function template instantiation 'irr::core::string<irr::c8,irr::core::irrAllocator<T>> &irr::core::string<T,irr::core::irrAllocator<T>>::operator =<B>(const B *const )' being compiled
+          with
+          [
+              T=irr::c8,
+              B=std::string *
+          ]
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\GUISubsystem.cpp(25): message : see reference to function template instantiation 'irr::core::string<irr::c8,irr::core::irrAllocator<T>>::string<std::string*>(const B *const )' being compiled
+          with
+          [
+              T=irr::c8,
+              B=std::string *
+          ]
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\GUISubsystem.cpp(25): message : see reference to function template instantiation 'irr::core::string<irr::c8,irr::core::irrAllocator<T>>::string<std::string*>(const B *const )' being compiled
+          with
+          [
+              T=irr::c8,
+              B=std::string *
+          ]
+  GraphicsSubsystem.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  InputSubsystem.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Keyboard.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Mouse.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ScoreSubsytem.cpp
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\InputSubsystem.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::System::setSoftwareFormat(int,enum FMOD_SPEAKERMODE,int)" (?setSoftwareFormat@System@FMOD@@QEAA?AW4FMOD_RESULT@@HW4FMOD_SPEAKERMODE@@H@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::System::playSound(class FMOD::Sound *,class FMOD::ChannelGroup *,bool,class FMOD::Channel * *)" (?playSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEAVSound@2@PEAVChannelGroup@2@_NPEAPEAVChannel@2@@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::PlayAudio(class FMOD::Sound *)" (?PlayAudio@AudioSubsystem@@UEAAXPEAVSound@FMOD@@@Z)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::Sound::setDefaults(float,int)" (?setDefaults@Sound@FMOD@@QEAA?AW4FMOD_RESULT@@MH@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: static enum FMOD_RESULT __cdecl FMOD::Studio::System::create(class FMOD::Studio::System * *,unsigned int)" (?create@System@Studio@FMOD@@SA?AW4FMOD_RESULT@@PEAPEAV123@I@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::Studio::System::initialize(int,unsigned int,unsigned int,void *)" (?initialize@System@Studio@FMOD@@QEAA?AW4FMOD_RESULT@@HIIPEAX@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+AudioSubsystem.obj : error LNK2019: unresolved external symbol "public: enum FMOD_RESULT __cdecl FMOD::Studio::System::getLowLevelSystem(class FMOD::System * *)const " (?getLowLevelSystem@System@Studio@FMOD@@QEBA?AW4FMOD_RESULT@@PEAPEAV13@@Z) referenced in function "public: virtual void __cdecl AudioSubsystem::InitAudio(void)" (?InitAudio@AudioSubsystem@@UEAAXXZ)
+D:\Academic Record\University\3rd year\Resit 301CR\Coursework\301CR coursework\New folder\GameEngine\x64\Debug\GameEngineSke.exe : fatal error LNK1120: 7 unresolved externals

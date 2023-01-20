@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Event.cpp">
+      <Filter>Events</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSubsystem.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsSubsystem.cpp">
+      <Filter>Subsystems Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsSubsystem.cpp">
+      <Filter>Subsystems Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreSubsytem.cpp">
+      <Filter>Subsystems Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSubsystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Subsystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUISubsystem.cpp">
+      <Filter>Subsystems Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioSubsystem.cpp">
+      <Filter>Subsystems Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Event.h">
+      <Filter>Events</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSubsystem.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsSubsystem.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsSubsystem.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreSubsystem.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSubsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Subsystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GUISubsystem.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioSubsystem.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Events">
+      <UniqueIdentifier>{013122f0-0d17-4924-bdde-f2ae53c9a565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{24184f3e-4dd1-45e8-bd4f-9696e41080f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{aae74912-9fbc-4084-bdce-86c5863cea67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2b56bbf8-a2f4-4c1a-b82e-3c944bb87909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems">
+      <UniqueIdentifier>{f9e59e1f-42a2-40af-87b6-232cfed7cfd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems Source Files">
+      <UniqueIdentifier>{8ddf5640-33c1-4325-bfd5-be76af8ba4a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
